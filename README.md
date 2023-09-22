@@ -1,16 +1,34 @@
-# transportation_app
+# T-System
 
-A new Flutter project.
+T System is a Flutter project created in a Hackathon contest (Codathon), the goal was trying to solve the transportation problem in Syria
 
-## Getting Started
+# Preview :
+## Check the screens first:
+### Login and Sign Up screens:
+<image src="https://github.com/Davinci2386/T-System/assets/112756575/a5b52926-eda4-4984-a851-5789d17b531f " width = 300 height = 500/> <image src="https://github.com/Davinci2386/T-System/assets/112756575/a2d8b610-8d44-4d9e-b3f9-495536e47669 " width = 300 height = 500/>
 
-This project is a starting point for a Flutter application.
+note thate the backend is not ready so I initialized them as (Test)
+### Forgot Passowrd screen:
+<image src="https://github.com/Davinci2386/T-System/assets/112756575/15cf9924-bd24-49a8-96a8-771616bd1d99" width = 300 height = 500/>
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen:
+<image src="https://github.com/Davinci2386/T-System/assets/112756575/20dbb91c-2f3e-4fbe-9860-ce56aedf02cc" width = 300 height = 500/> <image src="https://github.com/Davinci2386/T-System/assets/112756575/8ed82d82-3259-474c-ae1d-f15ee3f19b6c" width = 300 height = 500/>  <image src="https://github.com/Davinci2386/T-System/assets/112756575/3d83a795-830b-479a-a3bb-3d340457f0c8" width = 300 height = 500/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Bus section:
+first you will choose a line (road) to reserve your ride:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<image src="https://github.com/Davinci2386/T-System/assets/112756575/0b10642c-edc8-4a85-9694-32b94dee045d" width = 300 height = 500/>
+  
+then you have to choose the time and date for the reservation:
+
+
+<image src="https://github.com/Davinci2386/T-System/assets/112756575/3ca27588-c8f6-4572-b01e-e6416a74085d" width = 300 height = 500/> <image src="https://github.com/Davinci2386/T-System/assets/112756575/486069b4-583c-4d1d-88b7-06f02cebc218" width = 300 height = 500/> <image src="https://github.com/Davinci2386/T-System/assets/112756575/4bb49c04-82d6-470c-a79a-84f7849efffa" width = 300 height = 500/>
+
+the order is done :
+
+<image src="https://github.com/Davinci2386/T-System/assets/112756575/acfadaa8-4246-494f-afda-5c5994fa1a63" width = 300 height = 500/>
+
+
+the same steps for the taxi and the metro with a little diffrence in the working time in the metro.
+I hope you like it!
+
