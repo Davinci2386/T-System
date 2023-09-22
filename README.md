@@ -1,9 +1,10 @@
 # T-System
 
-T System is a Flutter project created in a Hackathon contest (Codathon), the goal was trying to solve the transportation problem in Syria
+T System is a Flutter project created in a Hackathon contest (Codathon), the goal was trying to solve the transportation problem in Syria using technologies, and that was our idea :
+We tried to make people reserve their rides so that we know which line will be crowded in everytime during the day, so we can change the buses division and increase bus numbers in the crowded places according to the reservations that people made in application.
 
 # Preview :
-## Check the screens first:
+## Check the screens:
 ### Login and Sign Up screens:
 <image src="https://github.com/Davinci2386/T-System/assets/112756575/a5b52926-eda4-4984-a851-5789d17b531f " width = 300 height = 500/> <image src="https://github.com/Davinci2386/T-System/assets/112756575/a2d8b610-8d44-4d9e-b3f9-495536e47669 " width = 300 height = 500/>
 
